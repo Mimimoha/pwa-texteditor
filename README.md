@@ -19,3 +19,4 @@ User can click on the Install button and the application will be downladed as an
 
 ## Deployed link
 
+[link](https://pwa-texteditor-production.up.railway.app/)
